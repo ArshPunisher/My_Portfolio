@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.64c71d29.css",
+    "main.js": "/My_Portfolio/static/js/main.86f28670.js",
+    "static/media/logo.png": "/My_Portfolio/static/media/logo.a16b1ce2a6b34e273dd7.png",
+    "static/media/obj_1.png": "/My_Portfolio/static/media/obj_1.1adbed883bcfe7014391.png",
+    "static/media/Project_2.jpg": "/My_Portfolio/static/media/Project_2.437f3d5bb60e17a044de.jpg",
+    "static/media/banner-bg.png": "/My_Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/Project_1.jpg": "/My_Portfolio/static/media/Project_1.18a4ba5aa804bd2a4903.jpg",
+    "static/media/contact.png": "/My_Portfolio/static/media/contact.db279d49f7336bc31289.png",
+    "static/media/CentraNo2-Bold.ttf": "/My_Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/My_Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/My_Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/nav-icon3.svg": "/My_Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/github-mark-white.svg": "/My_Portfolio/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/My_Portfolio/index.html",
+    "static/media/nav-icon1.svg": "/My_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.64c71d29.css.map": "/My_Portfolio/static/css/main.64c71d29.css.map",
+    "main.86f28670.js.map": "/My_Portfolio/static/js/main.86f28670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c71d29.css",
+    "static/js/main.86f28670.js"
+  ]
+}
